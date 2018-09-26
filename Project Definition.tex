@@ -1,3 +1,82 @@
+%Written by: Aaron Stillmaker
+%September 11, 2018
+%ECE 186A - Senior Design
+%
+%This is a template you can use for your Project Descriptions, though you will need to change a good portion of it for your own needs.
+
+\documentclass{IEEEtran}						%Everything is default, which is journal, 10pt font, and final draft
+
+\usepackage{dtk-logos}						%This let me do the cool BibTeX logo, you shouldn't need this line.
+%add additional packages here:
+
+\title{\vspace{2in}Project Description Instructions}	%the \vspace is moving the title down from the top of the page
+\author{ECE 186A - Senior Design I \\ 			%I am jamming all of the stuff I want on the title page into the Author spot, I know, this isn't elegant
+	Fall 2018 - Dr. Stillmaker \\ 					%Note the \\ line returns to make sure to put each one on a new line
+	\vspace{12pt} 								%I put in some space to get the due date listed a little lower
+	\textbf{Due:} Friday, September 28, 2018 by 10:00 AM to Blackboard \\ 
+	\vspace{2in}								%You may need to mess with this space, this space is above the signature lines.
+	%\underline{\hspace{3in}} \\
+	%\textbf{Project Manager:} Student One}			%Uncomment this section and fill in your team names and your technical advisor's name.
+	%\underline{\hspace{3in}} \\					%You are welcome to have more than one technical advisor if you wish..
+	%\textbf{Team Member:} Student Two}
+	%\underline{\hspace{3in}} \\
+	%\textbf{Team Member:} Student Three}
+	%\underline{\hspace{3in}} \\
+	%\textbf{Technical Advisor:} Dr. Esteemed Professor}
+	
+	\vspace{4in}}								%You will need to mess with this space, this space is after the signature lines.  The idea
+%is to make the title page by itself.  I know, this isn't elegant either, but IEEE formatting doesn't
+%make title pages
+
 \begin{document}
+	\thispagestyle{empty}						%This removes the page number from the title page.
+	
+	\maketitle									%This generates the title from the information given above.
+	
+	\IEEEPARstart{Y}{ou} 						%This makes the cool looking formatting for the first word.  It isn't required.
+	and your team should generate a single PDF document using \LaTeX \hspace{1pt} and the \verb1\documentclass{IEEEtran}1.
+	You are welcome to use the posted \verb1ProjectDescriptionInstructions.tex1 file posted on Blackboard, and just modify that to add your
+	own information, and meet the requirements.
+	I don't want to give a definite page limit, but I am expecting this document to be somewhere around three to five pages, though making sure to 
+	adequately cover all the requested
+	material is what matters.  In other words, I expect that at this point you have rather thoroughly thought through your project, and should
+	have a lot to say about it.
+	
+	It should contain the following parts:
+	
+	\section*{Title Page}
+	Your title page should include your project's name, ECE 186A, the date, and all of your ECE group member's names.
+	It should also include the signature of your technical faculty advisor, as well as all of the members of your ECE group.
+	To accomplish this you should use the \verb1\maketitle1 command, and likely will need to add some \verb1\vspace{}1
+	and then the signature lines, which you can see in the example I gave in Lecture 5.  After this, you will need to add more space
+	to make sure it is only the above mentioned information that was included.  Unfortunately we can't just use the \verb1\newpage1
+	command, because the IEEEtran Journal format doesn't have the ability to make a title page, so you are welcome to figure out
+	another way, or use my somewhat inelegant workaround solution.
+	
+	\section{Introduction}
+	Clearly state your project, and what is the main deliverable.  List your team members, and what their specific responsibilities will
+	be in completing the project.  This section should have any details about your team member's strengths, but just very simply what
+	their responsibilities are in about a sentence
+	(i.e. Student One is responsible for being the project manager, micro-controller communications programming, 
+	and design of PCB to interface with components).
+	
+	\section{Background}
+	Brief statement of goals of the project and the objectives that will need to be accomplished to attain the goal.  Describe the background, strengths and weaknesses, of each
+	team member's knowledge, as it pertains to the project.  Explain in detail what background information is going to need to be researched
+	and learned to complete your project.  You should list specific courses that you have taken during your time at Fresno State that you will need to 
+	use information from to complete your project.  Note, for a successful Senior Design Topic, you must be using a breadth of knowledge.
+	
+	\section{Project Description}
+	Describe your project in detail in this section.  List out all of the major components, as well as all of the minor components underneath that.
+	Explain all the major difficulties with the project.  Briefly describe the
+	budget for your project, including major items you think will need to be purchased, if any.  It doesn't have to be very exact at this point, but you should
+	have a ballpark figure for the major parts.
+	Explain equipment you think you will need to use, be it purchased, already
+	owned, or borrowed from the ECE department.  List who your technical faculty advisor is, what their area of expertise is, and how
+	you will use that expertise in your project.
+	
+	\section*{References}
+	You will use \BibTeX \hspace{1pt} to generate references for all of the material you cited, using \verb1\cite{}1, to write this report.
+	Use the \verb1\bibliographystyle{IEEEtran}1 to generate your references.
 	
 \end{document}
