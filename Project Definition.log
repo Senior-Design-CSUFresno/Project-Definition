@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.9.26)  27 SEP 2018 00:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.9.26)  27 SEP 2018 00:34
 entering extended mode
 **"./Project Definition.tex"
 ("Project Definition.tex"
@@ -273,22 +273,47 @@ Overfull \vbox (13.80011pt too high) has occurred while \output is active []
 [1{C:/Users/thees/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
-] [2]
-("Project Definition.aux") ) 
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 58.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 58.
+
+Underfull \hbox (badness 1845) in paragraph at lines 57--67
+\T1/ptm/m/n/10 im-ages ob-tained through com-mu-ni-ca-tion with a cam-era
+ []
+
+
+Underfull \hbox (badness 5064) in paragraph at lines 57--67
+\T1/ptm/m/n/10 afore-men-tioned image-processing, which will de-ter-mine
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--67
+
+ []
+
+[2] ("Project Definition.aux") ) 
 Here is how much of TeX's memory you used:
- 2256 strings out of 493312
- 36909 string characters out of 3138899
+ 2258 strings out of 493312
+ 36937 string characters out of 3138899
  106493 words of memory out of 3000000
- 5807 multiletter control sequences out of 15000+200000
+ 5809 multiletter control sequences out of 15000+200000
  104413 words of font info for 107 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,5n,23p,1039b,245s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8
-r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program
- Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
-Output written on "Project Definition.pdf" (2 pages, 35101 bytes).
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/ba
+se/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
+Output written on "Project Definition.pdf" (2 pages, 42710 bytes).
 PDF statistics:
- 18 PDF objects out of 1000 (max. 8388607)
+ 22 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
