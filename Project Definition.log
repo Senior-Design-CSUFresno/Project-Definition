@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.9.26)  26 SEP 2018 17:10
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.9.26)  26 SEP 2018 17:15
+>>>>>>> 8717b69ffff68b04b2d0cb00cf9dda1cd1b69aa1
 entering extended mode
 **"./Project Definition.tex"
 ("Project Definition.tex"
@@ -246,10 +250,10 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <24> not available
 (Font)              Font shape `T1/ptm/b/it' tried instead on input line 32.
 
 -- Lines per column: 58 (exact).
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <11> on input line 35.
+(Font)              <7> on input line 57.
 LaTeX Font Info:    External font `cmex10' loaded for size
+<<<<<<< HEAD
 (Font)              <7.69997> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5.5> on input line 35.
@@ -280,34 +284,39 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 38.
 LaTeX Font Info:    Try loading font information for T1+pcr on input line 38.
 
+=======
+(Font)              <5> on input line 57.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 57.
+>>>>>>> 8717b69ffff68b04b2d0cb00cf9dda1cd1b69aa1
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 37--45
-[]\T1/ptm/m/n/10 OU and your team should gen-er-ate a
- []
+) [1
 
+{C:/Users/thees/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--45
-\T1/ptm/m/n/10 sin-gle PDF doc-u-ment us-ing L[]T[]X  and the
- []
-
-[2] ("Project Definition.aux") ) 
+] ("Project Definition.aux") ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  2290 strings out of 493312
  37475 string characters out of 3138899
  105493 words of memory out of 3000000
  5835 multiletter control sequences out of 15000+200000
  109533 words of font info for 112 fonts, out of 3000000 for 9000
+=======
+ 2264 strings out of 493312
+ 37030 string characters out of 3138899
+ 102493 words of memory out of 3000000
+ 5816 multiletter control sequences out of 15000+200000
+ 99943 words of font info for 100 fonts, out of 3000000 for 9000
+>>>>>>> 8717b69ffff68b04b2d0cb00cf9dda1cd1b69aa1
  1141 hyphenation exceptions out of 8191
- 37i,5n,28p,343b,245s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/ba
-se/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/urw/times/utmr8a.pfb>
-Output written on "Project Definition.pdf" (2 pages, 45887 bytes).
+ 37i,4n,24p,343b,128s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base
+/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
+Output written on "Project Definition.pdf" (1 page, 29800 bytes).
 PDF statistics:
- 22 PDF objects out of 1000 (max. 8388607)
+ 15 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
