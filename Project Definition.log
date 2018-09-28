@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.9.26)  27 SEP 2018 23:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.9.26)  27 SEP 2018 23:59
 entering extended mode
 **"./Project Definition.tex"
 ("Project Definition.tex"
@@ -351,83 +351,44 @@ Overfull \vbox (13.80011pt too high) has occurred while \output is active []
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 50.
+(Font)              <7> on input line 51.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 50.
+(Font)              <5> on input line 51.
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--59
+Underfull \hbox (badness 10000) in paragraph at lines 47--51
 
  []
 
 
-Underfull \hbox (badness 2573) in paragraph at lines 47--59
-\OMS/cmsy/m/n/10 $ \T1/ptm/m/n/10 Weak-nesses: pro-gram-ming (ver-ilog, Python
-), cir-cuitry
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
  []
 
 
-Underfull \hbox (badness 6236) in paragraph at lines 47--59
-\OMS/cmsy/m/n/10 $ \T1/ptm/m/n/10 Strengths: pro-gram-ming (as-sem-bly, ver-il
-og, Mat-lab)
- []
-
-
-Underfull \hbox (badness 3364) in paragraph at lines 47--59
-\OMS/cmsy/m/n/10 $ \T1/ptm/m/n/10 Weak-nesses: pro-gram-ming (Python), cir-cui
-try de-sign,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--59
-\T1/ptm/m/n/10 solv-ing, power sys-tems, prob-lem solv-ing, pub-lic
- []
-
-
-Underfull \hbox (badness 1975) in paragraph at lines 47--59
-\OMS/cmsy/m/n/10 $ \T1/ptm/m/n/10 Weak-nesses: pro-gram-ming (as-sem-bly, ver-
-ilog, Mat-lab,
- []
-
-
-Underfull \hbox (badness 1490) in paragraph at lines 47--59
-\T1/ptm/m/n/10 in or-der to im-ple-ment this project is: image-processing
- []
-
-
-Underfull \hbox (badness 6268) in paragraph at lines 47--59
-\T1/ptm/m/n/10 pro-grams, trans-lat-ing data from image-processing into
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--59
-\T1/ptm/m/n/10 co-or-di-nates, wire-less com-mu-ni-ca-tion be-tween sep-a-rate
- []
-
-
-Underfull \hbox (badness 1910) in paragraph at lines 47--59
-\T1/ptm/m/n/10 (ECE 146), Prin-ci-ples of Elec-tri-cal Cir-cuits (ECE 90),
+Underfull \hbox (badness 1584) in paragraph at lines 66--67
+\T1/ptm/m/n/10 searched in or-der to im-ple-ment this project is: image-
  []
 
 [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 106.
+(Font)              <8> on input line 114.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 106.
+(Font)              <6> on input line 114.
  [3] ("Project Definition.aux") ) 
 Here is how much of TeX's memory you used:
  4063 strings out of 493312
  66540 string characters out of 3138899
- 141036 words of memory out of 3000000
+ 142036 words of memory out of 3000000
  7578 multiletter control sequences out of 15000+200000
  107567 words of font info for 112 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,8n,39p,1165b,281s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/b
-ase/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/urw/times/utmri8a.pfb>
-Output written on "Project Definition.pdf" (3 pages, 62010 bytes).
+ase/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/urw/times/utmri8a.pfb>
+Output written on "Project Definition.pdf" (3 pages, 62002 bytes).
 PDF statistics:
  29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
