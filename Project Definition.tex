@@ -90,7 +90,7 @@
 	Another one of the larger obstacles that needs to be overcome is translating the smart-path to a usable coordinate system which will allow the stepper motors to move the eraser to the correct position on the board. When completed, it should move the way a vinyl plotter does, which works by having a track that can move left and right, and a roller that can move it up and down, to cover all directions of a 2D grid. The two stepper motors will need to be able to accomplish this for the Smart Eraser. The algorithm that converts the processed image into coordinates will need to be expressed in terms of rotation patterns in order to move the eraser correctly to the desired location.
 	
 	\subsection{Implement movement detection}
-	A potential safety issue concerns the movement of the eraser while someone is by, or using, the whiteboard. In order to prevent any potential bodily collisions with the device while it is in motion, there will need to be a movement detection system put into place. This detection system will make the eraser stop moving wherever it is whenever a person is standing in front of the whiteboard. The best way to accomplish this is to set up an ISR (interrupt service routine) which will be communicated with the camera. In addition, the camera will need to take an image and send it to the FPGA every second or so to detect a change in the image, so a subroutine comprised of this logic will also need to be created. If movement is detected, an interrupt will be issued in order to halt the eraser{\rq}s motion. The eraser{\rq}s original task will resume when there is no more movement being detected, or when there is a physical override detected from a programmed pushbutton.
+	A potential safety issue concerns the movement of the eraser while someone is by, or using, the whiteboard. In order to prevent any potential bodily collisions with the device while it is in motion, there will need to be a movement detection system put into place. This detection system will make the eraser stop moving wherever it is whenever a person is standing in front of the whiteboard. The best way to accomplish this is to set up an ISR (interrupt service routine) which will be communicated with the camera. In addition, the camera will need to take an image and send it to the FPGA every second or so to detect a change in the image, so a subroutine comprised of this logic will also need to be created. If movement is detected, an interrupt will be issued in order to halt the eraser{\rq}s motion. The eraser{\rq}s original task will resume when there is no more movement being detected, or when there is a physical override detected from a programmed pushbutton.\\\\\\\\
 	
 	\subsection{Estimated Costs}
 	\begin{table} [h!]	
@@ -100,21 +100,21 @@
 			\hline
 			\textbf{Component} & \textbf{Est. Price} \\
 			\hline
-			Standard Eraser & mula \\
+			Standard Eraser & \$3 \\
 			\hline
-			Standard Whiteboard & mula \\
+			Standard Whiteboard & \$50 \\
 			\hline
-			Stepper Motors & mula \\ 
+			Stepper Motors & \$60 x2 \\ 
 			\hline 		
-			H-bridge & mula \\
+			H-bridge & \$2 \\
 			\hline
-			HD camera & mula \\
+			HD camera & varies \\
 			\hline
-			Metal Tracks & mula \\
+			Metal Tracks & varies \\
 			\hline
-			Pulleys & mula \\
+			Pulleys & varies \\
 			\hline
-			various wires and connections & mula \\
+			various wires and connections & varies \\
 			\hline
 		\end{tabular} }
 		\caption{Estimated costs of components for project}
@@ -124,4 +124,7 @@
 	The technical advisor for this project is Dr. Hovannes Kulhandjian, who specializes in digital signal processing, and wireless communications and networking.	He will contribute advice and information pertaining to the bluetooth connectivity of the camera to the image processing microcontroller. Dr. Kulhandjian was the original mind behind the idea of this project as well. Because of this, he will also be contributing more specifications and features to the project as its completion progresses. 			
 	\bibliographystyle{IEEEtran}
 	\bibliography{references}	
+	1.https://www.mathworks.com/help/supportpkg/alterafpgaturnkeyboards/ug/program-standalone-fpga-with-fpga-turnkey-workflow-from-.html\\\\
+	2.https://www.mathworks.com/help/instrument/bluetooth-communication.html
+		
 \end{document}
