@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.9.26)  28 SEP 2018 00:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.9.26)  28 SEP 2018 01:00
 entering extended mode
 **"./Project Definition.tex"
 ("Project Definition.tex"
@@ -369,28 +369,42 @@ Underfull \hbox (badness 1584) in paragraph at lines 66--67
 \T1/ptm/m/n/10 searched in or-der to im-ple-ment this project is: image-
  []
 
-[2]
+
+LaTeX Warning: File `Diargram one.png' not found on input line 71.
+
+<Diargram one.png, id=7, 726.46407pt x 456.95718pt>
+File: Diargram one.png Graphic file (type png)
+<use Diargram one.png>
+Package pdftex.def Info: Diargram one.png  used on input line 71.
+(pdftex.def)             Requested size: 726.4623pt x 456.95605pt.
+[2 <./Diargram one.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 114.
+(Font)              <8> on input line 118.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 114.
- [3] ("Project Definition.aux") ) 
+(Font)              <6> on input line 118.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3] [4
+
+] ("Project Definition.aux") ) 
 Here is how much of TeX's memory you used:
- 4063 strings out of 493312
- 66540 string characters out of 3138899
- 142036 words of memory out of 3000000
- 7578 multiletter control sequences out of 15000+200000
+ 4068 strings out of 493312
+ 66635 string characters out of 3138899
+ 143036 words of memory out of 3000000
+ 7582 multiletter control sequences out of 15000+200000
  107567 words of font info for 112 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,8n,39p,1165b,281s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/b
-ase/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/urw/times/utmri8a.pfb>
-Output written on "Project Definition.pdf" (3 pages, 62378 bytes).
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base
+/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/urw/times/utmri8a.pfb>
+Output written on "Project Definition.pdf" (4 pages, 77777 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
+ 35 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
