@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.9.26)  28 SEP 2018 01:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.9.26)  28 SEP 2018 08:57
 entering extended mode
 **"./Project Definition.tex"
 ("Project Definition.tex"
@@ -377,74 +377,53 @@ Underfull \hbox (badness 1584) in paragraph at lines 67--68
  []
 
 
-LaTeX Warning: File `Diargram one.png' not found on input line 72.
+LaTeX Warning: File `Diargram one.png' not found on input line 101.
 
 <Diargram one.png, id=7, 726.46407pt x 456.95718pt>
 File: Diargram one.png Graphic file (type png)
 <use Diargram one.png>
-Package pdftex.def Info: Diargram one.png  used on input line 72.
+Package pdftex.def Info: Diargram one.png  used on input line 101.
 (pdftex.def)             Requested size: 726.4623pt x 456.95605pt.
-[2 <./Diargram one.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 93--94
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--94
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--94
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--94
-
- []
-
+[2] [3 <./Diargram one.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 119.
+(Font)              <8> on input line 152.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 119.
-[3] ("Project Definition.bbl"
+(Font)              <6> on input line 152.
+ ("Project Definition.bbl"
 
 Package natbib Warning: Empty `thebibliography' environment on input line 24.
 
 )
-Overfull \hbox (91.07669pt too wide) in paragraph at lines 127--129
+Overfull \hbox (91.07669pt too wide) in paragraph at lines 160--162
 \T1/ptm/m/n/10 1.https://www.mathworks.com/help/supportpkg/alterafpgaturnkeyboa
 rds/ug/program-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--129
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--129
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
 \T1/ptm/m/n/10 2.https://www.mathworks.com/help/instrument/bluetooth-
  []
 
-[4
-
-] ("Project Definition.aux") ) 
+[4] ("Project Definition.aux") ) 
 Here is how much of TeX's memory you used:
- 4411 strings out of 493312
- 70666 string characters out of 3138899
- 145813 words of memory out of 3000000
- 7918 multiletter control sequences out of 15000+200000
+ 4414 strings out of 493312
+ 70700 string characters out of 3138899
+ 144821 words of memory out of 3000000
+ 7921 multiletter control sequences out of 15000+200000
  107567 words of font info for 112 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,8n,39p,1165b,281s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base
-/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/urw/times/utmri8a.pfb>
-Output written on "Project Definition.pdf" (4 pages, 78171 bytes).
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/ba
+se/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/urw/times/utmri8a.pfb>
+Output written on "Project Definition.pdf" (4 pages, 81089 bytes).
 PDF statistics:
  35 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
