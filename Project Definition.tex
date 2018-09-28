@@ -6,6 +6,9 @@
 
 \documentclass{IEEEtran}					%Everything is default, which is journal, 10pt font, and final draft
 \usepackage{dtk-logos}						%This let me do the cool BibTeX logo, you shouldn't need this line. Add additional packages here:
+\usepackage{graphics}
+\usepackage{caption} 
+\captionsetup[table]{skip=10pt}
 \title{\vspace{2in}The Smart Eraser}	%the \vspace is moving the title down from the top of the page
 \author{ECE 186A - Senior Design I \\ 			%I am jamming all of the stuff I want on the title page into the Author spot, I know, 
 	%this isn't elegant.
@@ -79,31 +82,31 @@
 	\subsection{Estimated Costs}
 	\begin{table} [h!]	
 		\centering
+		\resizebox{8cm}{!}{
 		\begin{tabular}{|c|c|}
 			\hline
-			Component & Est. Price \\
+			\textbf{Component} & \textbf{Est. Price} \\
 			\hline
-			1 & 2 \\
+			Standard Eraser & mula \\
 			\hline
-			3 & 4 \\
+			Standard Whiteboard & mula \\
 			\hline
-			5 & 6 \\ 
+			Stepper Motors & mula \\ 
 			\hline 		
-		\end{tabular} 
+			H-bridge & mula \\
+			\hline
+			HD camera & mula \\
+			\hline
+			Metal Tracks & mula \\
+			\hline
+			Pulleys & mula \\
+			\hline
+			various wires and connections & mula \\
+			\hline
+		\end{tabular} }
 		\caption{Estimated costs of components for project}
 		\label{table:1}
 	\end{table}						
-	$\bullet$ Standard Eraser (3 dollars) \\
-	$\bullet$ Standard Whiteboard (40 dollars)\\
-	$\bullet$ Stepper motors (60 dollars x2)\\
-	$\bullet$ H-bridge (2 dollars)\\
-	$\bullet$ Microcontrollers: Raspberry Pi (35 dollars)\\
-	$\bullet$ HD Camera (largely varying)\\
-	$\bullet$ Metal roller track, mounting system (largely varying)\\
-	$\bullet$ Pulley system, wheels/gears (largely varying)\\
-	$\bullet$ Various wires and connections (10 dollars)\\
-	
-	
 	\section*{References}
 	
 \end{document}
