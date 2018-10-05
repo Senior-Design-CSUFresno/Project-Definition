@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.9.26)  28 SEP 2018 08:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.9.26)  5 OCT 2018 16:18
 entering extended mode
 **"./Project Definition.tex"
 ("Project Definition.tex"
@@ -243,7 +243,23 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count95
 )
-("Project Definition.aux")
+("Project Definition.aux"
+
+! Package natbib Error: Bibliography not compatible with author-year citations.
+
+(natbib)                Press <return> to continue in numerical citation style.
+
+
+See the natbib package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 ...mand\NAT@force@numbers{}\NAT@force@numbers
+                                                  
+Check the bibliography entries for non-compliant syntax,
+or select author-year BibTeX style, e.g. plainnat
+
+)
 \openout1 = `"Project Definition.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
@@ -389,41 +405,22 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 152.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 152.
- ("Project Definition.bbl"
-
-Package natbib Warning: Empty `thebibliography' environment on input line 24.
-
-)
-Overfull \hbox (91.07669pt too wide) in paragraph at lines 160--162
-\T1/ptm/m/n/10 1.https://www.mathworks.com/help/supportpkg/alterafpgaturnkeyboa
-rds/ug/program-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 160--162
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 160--162
-\T1/ptm/m/n/10 2.https://www.mathworks.com/help/instrument/bluetooth-
- []
-
-[4] ("Project Definition.aux") ) 
+ ("Project Definition.bbl") [4]
+("Project Definition.aux") ) 
 Here is how much of TeX's memory you used:
- 4414 strings out of 493312
- 70700 string characters out of 3138899
- 144821 words of memory out of 3000000
- 7921 multiletter control sequences out of 15000+200000
+ 4417 strings out of 493312
+ 70736 string characters out of 3138899
+ 143836 words of memory out of 3000000
+ 7924 multiletter control sequences out of 15000+200000
  107567 words of font info for 112 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,8n,39p,1165b,281s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/ba
-se/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/urw/times/utmri8a.pfb>
-Output written on "Project Definition.pdf" (4 pages, 81089 bytes).
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8
+r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/urw/times/utmri8a.pfb>
+Output written on "Project Definition.pdf" (4 pages, 81227 bytes).
 PDF statistics:
  35 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
